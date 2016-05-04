@@ -1,7 +1,7 @@
 name: cookies
 favicon: null
-layout_spectrum: 0.07402152195572853
-typography_spectrum: 0.7891827807761729
+layout_spectrum: 1
+typography_spectrum: 0.24896
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-  brandStrength: 0.7430473738349974
-  lightness: 0.26422356511466205
-  saturation: 0.11250641802325845
-  rhythmicContrast: 0.5027294459287077
+  brandStrength: 0.1875
+  lightness: 0.75
+  saturation: 0.6875
+  rhythmicContrast: 0.75
 purpose: []
