@@ -5,19 +5,15 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "Esse é o \x7FÍndice Geral de Atendimento, que mostra, de forma geral, o resultado da avaliação em todos os entes."
-datePublished: '2016-08-31T15:36:22.032Z'
-dateModified: '2016-08-31T15:36:21.156Z'
+datePublished: '2016-08-31T15:36:26.052Z'
+dateModified: '2016-08-31T15:36:24.210Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-04-esse-e-o-indice-geral-de-atendimento-que-mostra-de-forma.md
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
 via: {}
-starred: true
+starred: false
 url: esse-e-o-indice-geral-de-atendimento-que-mostra-de-forma/index.html
 _type: Article
 
